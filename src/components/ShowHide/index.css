@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(#dd1264, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 32px;
+}
+
+.btn {
+  color: #fa7257;
+  background-color: #fddddb;
+  border-radius: 10px;
+  width: 200px;
+  background-color: white;
+  margin: 10px;
+}
+
+.container {
+  background-color: #fddddb;
+  margin: 10px;
+}
+.name {
+  height: 100px;
+  width: 250px;
+  color: black;
+  background-color: #fddddb;
+}
+
+.hide-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
